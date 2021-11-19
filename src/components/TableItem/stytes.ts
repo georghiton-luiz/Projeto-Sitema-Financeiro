@@ -10,7 +10,7 @@ export const Category = styled.div<{ color: string }>`
     display: inline-block;
     padding: 5px 10px;
     border-radius: 5px;
-    color:#FFF;
+    color: #FFF;
     background-color: ${props => props.color};
 
 `;

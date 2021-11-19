@@ -13,7 +13,7 @@ export const categories: Category = {
     },
     salary: {
         title: 'Salário',
-        color: 'vermelho',
+        color: 'green',
         expense: false
     }
 }
